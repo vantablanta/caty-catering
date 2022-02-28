@@ -21,4 +21,4 @@ Catering company website that show cases the menu items.
 ### Licence 
 [MIT License](https://github.com/vantablanta/caty-catering/blob/master/LICENSE)
 ### Live Link
-[Portfolio]()
+[Caty Catering]()
